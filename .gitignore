@@ -1,0 +1,12 @@
+build/
+.qmake.stash
+*.user
+*.pro.user
+*.pri.user
+*.moc
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.lib
