@@ -1,0 +1,17 @@
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\bin\Release\net8.0-windows\Rentas.exe
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\bin\Release\net8.0-windows\Rentas.deps.json
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\bin\Release\net8.0-windows\Rentas.runtimeconfig.json
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\bin\Release\net8.0-windows\Rentas.dll
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\bin\Release\net8.0-windows\Rentas.pdb
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.Form1.resources
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.Properties.Resources.resources
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.csproj.GenerateResource.cache
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.AssemblyInfoInputs.cache
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.AssemblyInfo.cs
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.csproj.CoreCompileInputs.cache
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.dll
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\refint\Rentas.dll
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.pdb
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\Rentas.genruntimeconfig.cache
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\Tarea_5\Rentas\obj\Release\net8.0-windows\ref\Rentas.dll

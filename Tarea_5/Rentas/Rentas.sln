@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rentas", "Rentas.csproj", "{F9A126B6-636B-4F48-BE7B-EE9F85A7FCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A126B6-636B-4F48-BE7B-EE9F85A7FCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A126B6-636B-4F48-BE7B-EE9F85A7FCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A126B6-636B-4F48-BE7B-EE9F85A7FCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A126B6-636B-4F48-BE7B-EE9F85A7FCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850C38D0-C156-4CEF-BED4-BAAB840607BF}
+	EndGlobalSection
+EndGlobal
