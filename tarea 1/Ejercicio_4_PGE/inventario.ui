@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Inventario</class>
+ <widget class="QWidget" name="Inventario">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>585</width>
+    <height>719</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Inventario</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="1" column="4">
+    <widget class="QLabel" name="lPrecio">
+     <property name="text">
+      <string>Precio</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QLabel" name="lCantidad">
+     <property name="text">
+      <string>Cantidad</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3">
+    <widget class="QLineEdit" name="leCantidad"/>
+   </item>
+   <item row="1" column="1">
+    <widget class="QLineEdit" name="leNombre"/>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="lNombre">
+     <property name="text">
+      <string>Nombre</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="6">
+    <widget class="QPushButton" name="pbIngresar">
+     <property name="text">
+      <string>Ingresar</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="5">
+    <widget class="QLineEdit" name="lePrecio"/>
+   </item>
+   <item row="1" column="7">
+    <widget class="QPushButton" name="pbCambios">
+     <property name="text">
+      <string>Guardar Cambios</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" colspan="8">
+    <widget class="QListWidget" name="tbInventario"/>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

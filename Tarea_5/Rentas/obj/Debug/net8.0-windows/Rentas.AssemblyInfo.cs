@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rentas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c00736c0ec42c58e76e53bb21a542e074e82657")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rentas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rentas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

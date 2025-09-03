@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\Tarea_5\\Rentas\\Rentas.csproj": {}
+    "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\commits\\Tarea_5\\Rentas\\Rentas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\Tarea_5\\Rentas\\Rentas.csproj": {
+    "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\commits\\Tarea_5\\Rentas\\Rentas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\Tarea_5\\Rentas\\Rentas.csproj",
+        "projectUniqueName": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\commits\\Tarea_5\\Rentas\\Rentas.csproj",
         "projectName": "Rentas",
-        "projectPath": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\Tarea_5\\Rentas\\Rentas.csproj",
+        "projectPath": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\commits\\Tarea_5\\Rentas\\Rentas.csproj",
         "packagesPath": "C:\\Users\\brasc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\Tarea_5\\Rentas\\obj\\",
+        "outputPath": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\commits\\Tarea_5\\Rentas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brasc\\AppData\\Roaming\\NuGet\\NuGet.Config",

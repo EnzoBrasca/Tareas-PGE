@@ -1,0 +1,11 @@
+﻿  Rentas.cpp
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(96,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(103,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(110,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(117,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(124,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(131,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(138,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(145,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\Rentas.cpp(180,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Rentas.vcxproj -> C:\Users\brasc\OneDrive - UNIVERSIDAD BLAS PASCAL\facultad\6to\PGE\tarea_2\Rentas\x64\Debug\Rentas.exe
