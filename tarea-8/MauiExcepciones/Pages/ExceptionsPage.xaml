@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MauiExcepciones.Pages.ExceptionsPage"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="Excepciones comunes">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="16" Spacing="10">
+            <Label Text="Botones de ejemplo: disparo y prevención" FontAttributes="Bold" FontSize="20"/>
+
+            <Button Text="ArgumentNullException" Clicked="OnArgNullClicked"/>
+            <Button Text="ArgumentOutOfRangeException" Clicked="OnAoorClicked"/>
+            <Button Text="InvalidOperationException" Clicked="OnInvOpClicked"/>
+            <Button Text="FormatException" Clicked="OnFormatClicked"/>
+
+            <Label Text="Observá los mensajes y cómo prevenir con validaciones." FontSize="12"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

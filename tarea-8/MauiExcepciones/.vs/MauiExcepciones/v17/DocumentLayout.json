@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\services\\inmemoryauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:services\\inmemoryauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\calculatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\calculatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\filemanagerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\filemanagerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\pages\\exceptionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:pages\\exceptionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\services\\exceptionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:services\\exceptionmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|c:\\users\\brasc\\onedrive - universidad blas pascal\\facultad\\6to\\pge\\tarea-8\\mauiexcepciones\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFCABD62-F562-49E7-8963-E4136F1D2E4F}|MauiExcepciones.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:56:43.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InMemoryAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\InMemoryAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryAuthService.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\InMemoryAuthService.cs",
+              "RelativeToolTip": "Services\\InMemoryAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:25:46.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:24:59.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T21:00:01.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-17T20:51:31.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\FileManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\FileManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\FileManagerPage.xaml.cs",
+              "RelativeToolTip": "Pages\\FileManagerPage.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:57:06.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\ExceptionsPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ExceptionsPage.xaml",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\ExceptionsPage.xaml",
+              "RelativeToolTip": "Pages\\ExceptionsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-17T18:51:06.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\LogService.cs",
+              "RelativeToolTip": "Services\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:17:19.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionMapper.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\ExceptionMapper.cs",
+              "RelativeDocumentMoniker": "Services\\ExceptionMapper.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Services\\ExceptionMapper.cs",
+              "RelativeToolTip": "Services\\ExceptionMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:59:41.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\CalculatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CalculatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\CalculatorPage.xaml.cs",
+              "RelativeToolTip": "Pages\\CalculatorPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T20:35:47.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\CalculatorPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\CalculatorPage.xaml",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\Pages\\CalculatorPage.xaml",
+              "RelativeToolTip": "Pages\\CalculatorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T20:35:45.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\brasc\\OneDrive - UNIVERSIDAD BLAS PASCAL\\facultad\\6to\\PGE\\tarea-8\\MauiExcepciones\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T20:34:39.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
